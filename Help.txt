@@ -1,0 +1,9 @@
+npm i firebase - when setting up authetication with firebase
+
+
+
+
+---FINISH
+
+firebase deploy --only functions    //make sure u have blaze plan
+firebase deploy --only hosting
